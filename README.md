@@ -15,6 +15,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 - [MISP threat sharing platform](https://www.youtube.com/watch?v=M7JMG0tx0Oo) by CIRCL
 - [GRR](https://www.youtube.com/watch?v=ren6QSvwFvg) - by Greg Caste
+- [Getting started with the SIFT Workstation](https://www.youtube.com/watch?v=ai_7Fkv6igw) by Rob Lee
 
 # Incident Management
 
