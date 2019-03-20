@@ -29,6 +29,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [DFIR iin 120 seconds - Userassist](https://www.youtube.com/watch?v=4EKWTz5WzBo) by CyberFox / Matthias Fuchs
 - [DFIR iin 120 seconds - Shimcache](https://www.youtube.com/watch?v=7MUnauoRrZE) by CyberFox / Matthias Fuchs
 - [Google Cloud Forensics 101](https://www.youtube.com/watch?v=OkjTqlETgMA) by Google
+- [Incident Response in the Cloud (AWS)](https://www.youtube.com/watch?v=VLIFasM8VbY) by Jonathon Poling (@JPoForenso)
 
 
 # CTI / Threat Intelligence
