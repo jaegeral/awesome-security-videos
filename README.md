@@ -20,6 +20,10 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 # Offensive / Red-Teaming
 
+# Hunting
+
+- [Hunting on Amazon Web Services (AWS)](https://www.youtube.com/watch?v=LRxxN3KGLYo) by Alex Maestretti (@maestretti)
+
 # Defense / Blue Teaming
 
 - [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4) by Chad Tilbury
