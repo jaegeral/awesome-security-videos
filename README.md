@@ -24,5 +24,10 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 - [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4) by Chad Tilbury
 - [Finding and Decoding Malicious Powershell Scripts](https://www.youtube.com/watch?v=JWC7fzhvAY8) by Mari DeGrazia (@maridegrazia)
+- [DFIR in 120 seconds - RunMRU](https://www.youtube.com/watch?v=L3AUJNqNTMc) by CyberFox / Matthias Fuchs
+- [DFIR in 120 seconds - Prefetch](https://www.youtube.com/watch?v=LA3M3aor6Mo) by CyberFox / Matthias Fuchs
+- [DFIR iin 120 seconds - Userassist](https://www.youtube.com/watch?v=4EKWTz5WzBo) by CyberFox / Matthias Fuchs
+- [DFIR iin 120 seconds - Shimcache](https://www.youtube.com/watch?v=7MUnauoRrZE) by CyberFox / Matthias Fuchs
+
 
 # CTI / Threat Intelligence
