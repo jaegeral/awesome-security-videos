@@ -37,3 +37,5 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 
 # CTI / Threat Intelligence
+
+- [The Cyber Threat Intelligence Matrix](https://www.youtube.com/watch?v=WAvO0Y0nOws) by Frode Hommedal
