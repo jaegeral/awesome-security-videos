@@ -8,6 +8,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 - [Optimistic Dissatisfaction with the Status Quo: Steps We Must Take to Improve Security in Complex Landscapes](https://www.youtube.com/watch?v=py2qmGbyhlw&t=1417s) by Parisa Tabriz
 - [The State of Incident Response](https://www.youtube.com/watch?v=u54Radu2bF0) by Bruce Schneier
+- [Why we are not building a defendable internet](https://www.youtube.com/watch?v=PLJJY5UFtqY) by Thomas Dullien / Halvar Flake
 
 # Tools
 
