@@ -11,6 +11,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [Why we are not building a defendable internet](https://www.youtube.com/watch?v=PLJJY5UFtqY) by Thomas Dullien / Halvar Flake
 - [Hacker - the immune system of the internet](https://www.youtube.com/watch?v=erCAp_Bd0AQ) by Keren Elazari
 - [The Honeynet Project: Then and Now](https://www.youtube.com/watch?v=fhAQM_Two_I) by Lance Spitzner
+- [This is what happens when you reply to spam email](https://www.youtube.com/watch?v=_QdPW8JrYzQ&t=10s) by James Veitch
 
 # Tools
 
