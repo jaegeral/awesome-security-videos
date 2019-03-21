@@ -21,7 +21,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [Getting started with the SIFT Workstation](https://www.youtube.com/watch?v=ai_7Fkv6igw) by Rob Lee
 - [Digital Forensic Memory Analysis - Volatility](https://www.youtube.com/watch?v=Cs0Gc3GtfZY) by DFIR.Science
 - [YARA Finding aliens, star weapons and ponies with YARA](https://www.youtube.com/watch?v=fbidgtOXvc0) by Vitaly Kamluk
-
+- [KAPE](https://www.youtube.com/watch?v=L9H1uj2HSb8) by Richard Davis
 # Incident Management
 
 # Vulnerability handling
