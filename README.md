@@ -51,6 +51,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [ALL YOUR CLOUD ARE BELONG TO US – HUNTING COMPROMISE IN AZURE](https://www.youtube.com/watch?v=ZKh4pd9cqAE) by Nate Warfield
 - [CHANGING THE PHYSICS OF DEFENSE](https://www.youtube.com/watch?v=Ig2bbfSzBCM) by John Lambert
 - [Windows Forensics: Event Trace Logs](https://www.youtube.com/watch?v=TUR-L9AtzQE&t=725s) by Nicole Ibrahim
+- [The Audit Log Was Cleared](https://www.youtube.com/watch?v=00EwvDKaKyQ) by Austin Baker & Jacob Christie
 
 # CTI / Threat Intelligence
 
