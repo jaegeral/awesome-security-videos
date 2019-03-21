@@ -32,6 +32,8 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 # Offensive / Red-Teaming
 
+- [Exploiting Active Directory Administrator Insecurities](https://www.youtube.com/watch?v=ze1UcSLOypw) by Sean Metcalf
+
 # Awareness
 
 - [Security Awareness Metrics - Measuring Change in Human Behavior](https://www.youtube.com/watch?v=qopLSlEYv9Q) by Lance Spitzner
