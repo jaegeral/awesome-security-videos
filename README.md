@@ -10,6 +10,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [The State of Incident Response](https://www.youtube.com/watch?v=u54Radu2bF0) by Bruce Schneier
 - [Why we are not building a defendable internet](https://www.youtube.com/watch?v=PLJJY5UFtqY) by Thomas Dullien / Halvar Flake
 - [Hacker - the immune system of the internet](https://www.youtube.com/watch?v=erCAp_Bd0AQ) by Keren Elazari
+- [The Honeynet Project: Then and Now](https://www.youtube.com/watch?v=fhAQM_Two_I) by Lance Spitzner
 
 # Tools
 
