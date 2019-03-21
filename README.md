@@ -23,6 +23,10 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 # Offensive / Red-Teaming
 
+# Awareness
+
+- [Security Awareness Metrics - Measuring Change in Human Behavior](https://www.youtube.com/watch?v=qopLSlEYv9Q) by Lance Spitzner
+
 # Hunting
 
 - [Hunting on Amazon Web Services (AWS)](https://www.youtube.com/watch?v=LRxxN3KGLYo) by Alex Maestretti (@maestretti)
