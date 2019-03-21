@@ -23,6 +23,10 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 
 # Incident Management
 
+# Vulnerability handling
+
+- [Lessons learned from running big bug bounty programs](https://www.youtube.com/watch?v=OiQTdZ-reo8) by Katie Moussouris
+
 # Offensive / Red-Teaming
 
 # Awareness
