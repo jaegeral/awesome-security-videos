@@ -17,7 +17,7 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [GRR](https://www.youtube.com/watch?v=ren6QSvwFvg) - by Greg Caste
 - [Getting started with the SIFT Workstation](https://www.youtube.com/watch?v=ai_7Fkv6igw) by Rob Lee
 - [Digital Forensic Memory Analysis - Volatility](https://www.youtube.com/watch?v=Cs0Gc3GtfZY) by DFIR.Science
-
+- [YARA Finding aliens, star weapons and ponies with YARA](https://www.youtube.com/watch?v=fbidgtOXvc0) by Vitaly Kamluk
 
 # Incident Management
 
