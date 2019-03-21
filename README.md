@@ -22,6 +22,8 @@ Inspired by: https://github.com/lucasviola/awesome-tech-videos
 - [Digital Forensic Memory Analysis - Volatility](https://www.youtube.com/watch?v=Cs0Gc3GtfZY) by DFIR.Science
 - [YARA Finding aliens, star weapons and ponies with YARA](https://www.youtube.com/watch?v=fbidgtOXvc0) by Vitaly Kamluk
 - [KAPE](https://www.youtube.com/watch?v=L9H1uj2HSb8) by Richard Davis
+- [SOF ELK](https://www.youtube.com/watch?v=Hk6An-LJ4jY) by Philip Hagen
+
 # Incident Management
 
 # Vulnerability handling
